@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  CS student trying her best to land an SWE job and make her parents proud
+  CS student trying her best to land a SWE job and make her parents proud
 </p>
 
 ## 🛠 Tech Stack
